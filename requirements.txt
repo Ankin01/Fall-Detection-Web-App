@@ -17,7 +17,6 @@ click==7.1.2
 contextlib2==0.6.0.post1
 cryptography==2.8
 cycler==0.10.0
-dbus-python==1.2.16
 decorator==4.4.2
 defusedxml==0.6.0
 distro==1.4.0
